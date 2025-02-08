@@ -99,9 +99,9 @@ public class Manager{
             try{
                 System.out.println();
                 System.out.println();
-                System.out.println("-----------------------------------------------------------------");
+                System.out.println("-".repeat(65));
                 System.out.println("\t\tLIBRARY MANAGEMENT SYSTEM");
-                System.out.println("-----------------------------------------------------------------");
+                System.out.println("-".repeat(65));
                 System.out.println("Enter your choice:");
                 System.out.println("1. View Books");
                 System.out.println("2. Add Books");
